@@ -40,5 +40,5 @@ We explore how factors like GDP per capita, social support, life expectancy, and
 
 ### ⚠️ Note
 
-This project was completed as part of a university course. It demonstrates the application of machine learning techniques to real-world policy-related datasets.
+This project was completed as part of a machine learning course in my Artificial Intelligence major. It demonstrates the application of machine learning techniques to real-world policy-related datasets.
 
